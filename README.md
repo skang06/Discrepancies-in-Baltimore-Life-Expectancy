@@ -1,4 +1,4 @@
-# Final-Project test
+# Final-Project
 # Baltimore City Life Expectancy and Mortality Rates
 
 People are dying faster than warranted in poorer areas in Baltimore. This is not equitable and if there are ways to fix this, they should be fixed. Although we hypothesized that various food system initiatives might be better to improve health concerns, we found that median household income was one of the most important variables. Government officials should increasing the median household income through exploration of initiatives like Universal Basic Income or food distribution centers.
