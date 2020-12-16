@@ -43,19 +43,7 @@ _How does the data group itself into separate clusters of neighborhoods in Balti
 
 __Regression__
 
-We initially wanted to look and see whether all our variables were significant enough to affect the dependent variable. However, after doing multiple linear regression analysis for both mortality rate and life expectancy, only 1-2 variables were significant, so we decided to do simple linear regression on all the independent variables and found that 2 variables, free and reduced meals and median household income, were significant for both mortality rate and life expectancy. Average healthy food index was significant for mortality rate with a p-value of 0.0358, but its R-squared value was 0.0805, so we decided to not include it as one of the variables to visualize and discuss.
-
-![alt text](https://github.com/skang06/Baltimore-City-Livelihood/blob/main/midterm%20project%20mort%20rate%20graphs.png)
-
-__**Mortality Rate, 45-64:**__
-
-The p-value for free and reduced meals was 7.5133E-11 and the p-value for median household income was 2.5459E-11, meaning that both these independent variables were significant and are able to explain the changes in the dependent variable. As we can see in the graphs above, the trendline mostly fits the shape and direction of the data points and there are no extreme outliers that skew the data. Mortality rate has a positive relationship with free and reduced meals and has a negative relationship with median household income. This means that mortality rate increases when there are more free and reduced meals and mortality rate decreases when median household income is greater.
-
-Equations:
-
-Mortality rate = 1.922(free/reduced meals) – 21.416
-
-Mortality rate = -0.001(median household income) + 180.110
+We initially wanted to look and see whether both free and reduced meals and median household income were significant enough to affect life expectancy. However, after doing multiple linear regression analysis for ife expectancy, only free and reduced meals had a significant p-value, so we decided to do simple linear regression on free and reduced meals and median household income individually and found that both variables were significant for life expectancy. 
 
 ![alt text](https://github.com/skang06/Baltimore-City-Livelihood/blob/main/midterm%20project%20life%20exp%20graphs.png)
 
@@ -68,6 +56,7 @@ Equations:
 Life expectancy = -0.240(free/reduced meals) + 90.609
 
 Life expectancy = 0.0001(median household income) – 66.240
+
 
 
 __Clusters and Their Characteristics__
