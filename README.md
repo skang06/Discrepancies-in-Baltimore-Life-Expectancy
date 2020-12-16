@@ -138,7 +138,7 @@ However, the cause of the eating habits may not be due to the students themselve
 
 We have looked into the cost and logistics of providing healthier food options and we found that the Baltimore City Public Schools budget for the 2019 and 2020 school year was the following ([Baltimore City Public Schools](https://www.baltimorecityschools.org/sites/default/files/inline-files/FY21_AdoptedOperatingBudget_051420_Remediated.pdf)):
 
-Expenses by category, all funds, food services - Year by year comparison
+Expenses by category, all funds, food services - Year by year comparison:
 
 FY 19 Actual: 44,086,784
 
@@ -146,7 +146,7 @@ FY 20 Adopted: 46,087,798
 
 FY 21 Adopted: 45,255,331
 
-Food and Nutrition Services Expenditures - Year by year comparison
+Food and Nutrition Services Expenditures - Year by year comparison:
 
 FY 19 Actual: 53,654,833
 
