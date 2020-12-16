@@ -100,29 +100,29 @@ __Life Expectancy and Poverty Rate for Counties in Bay Area, California:__
 
 As shown in the combined line and bar graph there is a roughly inverse relationship between poverty rate and life expectancy. When poverty rate is lower, the life expectancy is higher. This helps to confirm the article that indicated the life expectancy is lower in places with more poverty. As this is a wider data set encompassing all counties in the Bay Area, we can assume we can apply to results to Baltimore City.As shown in the combined line and bar graph there is a roughly inverse relationship between poverty rate and life expectancy. When poverty rate is lower, the life expectancy is higher. This helps to confirm the article that indicated the life expectancy is lower in places with more poverty. As this is a wider data set encompassing all counties in the Bay Area, we can assume we can apply to results to Baltimore City.
 
-# Life expectancy vs. Poverty rate for Baltimore and Chicago
+__Life expectancy vs. Poverty rate for Baltimore and Chicago__
 
 Before the poverty rate and life expectancy rate comparison in both cities, it would make sense to compare how two cities are different from each other in terms of demographics, including the total population, age group population, and gender ratio. 
 
-# Age group distribution in Baltimore and Chicago (add bar graphs)
+__Age group distribution in Baltimore and Chicago (add bar graphs)__
 
 Age group distribution in Chicago and Baltimore are almost the same. The highest age group population is 30 - 49 years old for both cities, and both cities have bell curved shape distributions. Also, the second highest age group populaiton were 21-29 age group and 50-61 age group for both cities. One of the main differences is that the total populaiton is much higher for Chicago where the total populaiton is 600K compared to Baltimore where the total populaiton is almost 2.7M. Due to the higher population in Chicago, although the trend for age group distributions are same for both cities, the actual population for each bar is much higher for Chicago. 
 
-# Gender Ratio in Baltimore and Chicago
+__Gender Ratio in Baltimore and Chicago__
 
 Next is gender ratio comparison in both cities. In both cities, there are more male population than female population. However, Baltimore has a slightly higher male population of 53.1% whereas the male populaton in Chicago is 51.3%.
 
 Now that we have seen the differences and similarities of both cities in terms of demographcis, we can see if the same trend between the poverty rate and life expectancy holds in both cities.
 
-# Linear Regression
+__Linear Regression__
 
 As shown in the linear regression summary output, the poverty rate is significant enough in explaining the output of life expectancy rate in Baltimore given that the p-value of poverty rate is lower than 0.05. Same applies to Chicago where the p-value of poverty rate was also lower than 0.05.
 
-# Scatter plot and trend line
+__Scatter plot and trend line__
  
 Both scatter plots and trend lines clearly show that both the poverty rate and life expectancy rate have an inverse relationship in both Baltimore and Chicago. As poverty rate increases, the life expectancy tend to decrease and vice versa. Given the slight difference in Baltimore and Chicago in terms of demographics, still the poverty rate and life expectancy rate had a strong inverse relationship. This reinforces that how important it’s to lower the poverty rate to increase the life expectancy rate. 
 
-# Per capita income vs. Life expectancy rate in Chicago  (add scatter plot)
+__Per capita income vs. Life expectancy rate in Chicago  (add scatter plot)__
 
 In the previous part, we compared the median household income and life expectancy rate in Baltimore. Here, we used per capita income instead of median household income for Chicago. Compared to the Baltimore scatterplot, both cities have the same trend of positive relaitonship between two variables which means that as income increases, the life expectancy rate increased. The only main difference is that the individual dots are more spread out for Chicago whereas the individual dots are more closely clustered around the trend line for Baltimore. This might indicate that the R^2 value could be lower for Chicago, which means that per capita income could be better in explaining the life expectancy rate in Baltimore. Thus, it would be much more significant for Baltimore to have solutions that could increase the income level and lower the poverty rate to eventually increase the life expectancy rate in Baltimore. 
 
@@ -147,13 +147,13 @@ However, the cause of the eating habits may not be due to the students themselve
 ## UBI 
 Upon doing research, we found there were a lot of food distribution centers and food initiatives in place already, that’s why we wanted to propose UBI as a new, unique solution to try. 
 
-# Importance of UBI 
+__Importance of UBI__
 As the analyses above show, as the poverty rate increases the life expectancy rate decreases in Baltimore. Moreover, as the median household income increases the life expectancy rate increases as well. These analyses indicate that our solutions should focus on increasing the disposable income especially for people who are under the poverty threshold. And UBI is a great long-term solution to alleviate povert by allowing people who meet certain criteria to receive a set amount of money on a regular basis, and this could eventually help the life expectancy rate to increase in Baltimore. Operations can change as a result. According to the [Food Ethics Council](https://www.foodethicscouncil.org/app/uploads/2020/06/Food-Policy-on-Trial-on-UBI-Food-Ethics-Council-jurys-verdict-and-summary-1.pdf), one way UBI can help increase the life expectancy is to help people to get better access to good food and healthier diets. As the analysis above shows, free/reduced meals have negative correlations with the life expectancy rate in Baltimore. Thus, people would have better access to healthier food with the help of UBS, and this would increase the life expectancy rate in Baltimore. 
 
-# Potential outcome without UBI
+__Potential outcome without UBI__
 Since UBS is more of a long term solution, it would take time to see the actual result and thus it would be difficult for the analysis to be retrospective for now. If we hadn’t done the analysis and the organization took no action, the short-term result we might face next year is the misallocation of the available fund by the organization. We would not be able to see any drastic change in life expectancy or poverty rate since both of the variables are long-term variables. However, it is true that organization wouldn’t have a clear idea of why the life expectancy rate is decreasing in Baltimore and what the driving factors are. Thus, the organization might misallocate the available fund instead of focusing on alleviating the poverty since they wouldn’t know that the poverty rate is one of the main reasons for low life expectancy rate in Baltimore. And probably in 5 years, if the organization took no action, there is a high possibility for people in Baltimore to face decreased life expectancy rate. People under the poverty line would suffer continuously since no actions were taken, and that might accelerate the decrease in the life expectancy rate in Baltimore. And data analysis-wise, the negative correlation between the poverty rate and the life expectancy rate might get stronger. 
 
-# Success and Failure examples of UBI
+__Success and Failure examples of UBI__
 Different countries and states have experimented with UBI or similar small-scale trials [UBI Case studies](https://www.vox.com/future-perfect/2020/2/19/21112570/universal-basic-income-ubi-map). In Canada, there was a randomized controlled trial in the province of Manitoaba where every household was able to participate and get basic income. After 5 years, there was actually a 8.5% reduction in the hospitalization rate and also a decline in doctor visits. Thus, the program actually helped residents to improve their physical and mental health. However, since the program was funed by the provincial and federal government, it got canceled when a more conservative power took in place. Thus, for a successful implementation of UBI, it would be important to make the program as stable as possible wihtouth being affected by changes in the government. Another concern that UBI might have is the possibility of the recipients’ unwillingness to find jobs. Spain, in 2017, implemented a similar program called “B-MINCOME,” a two-year program that offered $1,968 per month to almost 1000 randomly selected households. This successful program was able to boost life satisfaction and mental health, and surprisingly, it did not affect the participants’ willingness to find jobs. Although, the case in Spain was successful, analysis on job searching rate for participants before and after they receive UBI would be necessary to make the program to be effectively implemented in Baltimore. 
 
 
