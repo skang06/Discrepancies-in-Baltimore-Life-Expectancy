@@ -7,6 +7,7 @@ People are dying faster than warranted in poorer areas in Baltimore. This is not
 
 [CBS Baltimore](https://baltimore.cbslocal.com/2017/07/06/life-expectancy-baltimore/) stated there are discrepancies in terms of life-expectancy in different areas of Baltimore. In fact, poorer areas of Baltimore had a life expectancy that was 20-years lower than that of richer areas. Lower life expectancy and higher rates of mortality in poorer areas indicate that people are dying prematurely when these are preventable solutions, as those in richer areas are not dying so early. This problem is important as obviously we would like to create for a more equitable society, where people's livelihoods are not affected based on where they live- especially if there are ways to do so. According to [Baltimore City’s health department](https://health.baltimorecity.gov/state-health-baltimore-winter-2016/state-health-baltimore-white-paper-2017#:~:text=The%20leading%20causes%20of%20death,and%20chronic%20lower%20respiratory%20diseases), the leading cause of death in the city is heart disease. Life expectancy and mortality rates in the 45-64 age group in Baltimore can be assumed to be correlated with heart disease. There are many different causes of heart disease, but [The Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118) states that the most common type of heart disease, atherosclerosis, is caused by an unhealthy diet, lack of exercise, and being overweight. These are issues that are amendable. Thus, a look into various variables related to food systems and physical activity in neighborhoods in the city of Baltimore was endeavored. This issue is of interest to us because we are both Baltimore citizens at least until we graduate from Hopkins. Not only is this relevant to us, but it also relevant for government officials who could learn the most effective ways to increase life expectancy and decrease rates of mortality. Not to mention, the leading cause of death in the United States is heart disease, so information from our analysis could help with the larger United States as well. 
 
+Our primary stakeholder is Dr. Letitia Dzirasa, the current Baltimore City Health Commissioner. We believe that she will be particularly interested in this issue because one of her special interests include obesity management. Moreover, the previous Baltimore City health commissioner, Dr. Leana Wen, has mentioned that she wants to close the life expectancy gap between poor and wealthy areas per an article in the [Baltimore Business Journal](https://www.bizjournals.com/baltimore/news/2018/06/13/baltimore-health-chief-wen-others-discussclosing.html?fbclid=IwAR2Zfy91CoIY2mmkTy-creAW91gThk0SlIB8E6PplxzKtfMNk4Kf2RRd_4A). Our secondary stakeholder will be the Baltimore City mayor, Brandon Scott. Although there are many different departments in the process of getting a budget approved, the mayor has the ability to approve the total budget at the end of the process. 
 
 ## Business Question
 
@@ -68,29 +69,36 @@ Life expectancy = -0.240(free/reduced meals) + 90.609
 
 Life expectancy = 0.0001(median household income) – 66.240
 
+
 __Clusters and Their Characteristics__
 
-![alt text](https://github.com/skang06/Baltimore-City-Livelihood/blob/main/mortalityratte.png)
-
-__Mortality Rate:__ 
-
-_Cluster 1_ (Lauraville): Cluster in between Cluster 2 and 3 in terms of all measures.
-
-_Cluster 2_ (Greater Roland Park/Poplar Hill): Most below average level of mortality rate. Most below average number of people on free and reduced meals and lowest average healthy food availability index. Most above average median household income, number of bike lanes. 
-
-_Cluster 3_(Pimlico/Arlington/Hilltop): Highest above average rate of mortality. Highest above average number of people in free and reduced meals. Also, the most below average median household income, number of bike lanes, and average healthy food accessibility index among the different clusters.  
-
+![alt text](ADD LINK TO CLUSTER CHART)
 
 __Life Expectancy:__ 
 
-![alt text](https://github.com/skang06/Baltimore-City-Livelihood/blob/main/lifeexpectancy.png) 
+![alt text](add link!!!!) 
 
-_Cluster 1_ (Lauraville): Cluster in between Cluster 2 and 3 in terms of all measures.
+_Cluster 1_ (Allendale/Irvington/S.Hilton): Most below average age of life expectancy among the different clusters. Highest above average number of people in free and reduced meals. Also, the most below average median household income.
 
-_Cluster 2_ (Allendale/Irvington/S.Hilton) : Most below average age of life expectancy among the different clusters. Highest above average number of people in free and reduced meals. Also, the most below average median household income, number of bike lanes, and average healthy food availability index. 
+_Cluster 2_ (Beechfield/Ten Hills/West Hills) : Cluster in between Cluster 1 and 3 in terms of all measures. 
 
-_Cluster 3_ (North Baltimore/Guilford/Homeland): Most above average age of life expectancy. Most below average number on free and reduced meals and lowest average healthy food availability index. Highest above average median household income, number of bike lanes. 
+_Cluster 3_ (Belair Edison): Most above average age of life expectancy. Most below average number on free and reduced meals. Highest above average median household income.
 
+We should focus on the neighborhoods in cluster 1 as it had the most below average lowest life expectancy. The cluster analysis coincides with our regression analysis in that there is a negative relationship between life expectancy and free/reduced meals, and a positive relationship between life expectancy and median household income.
+
+## Similar Data Analysis Outside of Baltimore
+
+__Unemployment Rate vs Poverty Rate for Cities in Bay Area, California:__
+
+![alt text](add link!!!!) 
+
+As expected and demonstrated in the graph, those cities with lowest rates of poverty compared to others in the Bay Area, have higher unemployment rates in their particular city. Overall, unemployment rate and poverty have similar trends, meaning that they are either both higher or both lower comparably. However, the unemployment rate and the poverty rates do not demonstrate the strong direct relationship that was assumed. Interestingly enough, there are several cities where the poverty rate is higher than the unemployment rate. Nearly all the cities that have the highest rates of poverty in the Bay Area, based on the chart, have a lower unemployment rate than poverty rate in that city.
+This provides more evidence for the need for UBI. For most of the cities with the worst poverty, there is an unemployment rate that is not that high comparably. This could indicate that getting more disposable income is more of an effective solution to combating poverty than more jobs.
+
+__Life Expectancy and Poverty Rate for Counties in Bay Area, California:__
+![alt text](add link!!!!) 
+
+As shown in the combined line and bar graph there is a roughly inverse relationship between poverty rate and life expectancy. When poverty rate is lower, the life expectancy is higher. This helps to confirm the article that indicated the life expectancy is lower in places with more poverty. As this is a wider data set encompassing all counties in the Bay Area, we can assume we can apply to results to Baltimore City.As shown in the combined line and bar graph there is a roughly inverse relationship between poverty rate and life expectancy. When poverty rate is lower, the life expectancy is higher. This helps to confirm the article that indicated the life expectancy is lower in places with more poverty. As this is a wider data set encompassing all counties in the Bay Area, we can assume we can apply to results to Baltimore City.
 
 ## Business Answer and Solutions
 
