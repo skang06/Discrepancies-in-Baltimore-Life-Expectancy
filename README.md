@@ -117,6 +117,19 @@ As shown in Baltimore City Health Department’s snapshot of the city’s public
 However, the cause of the eating habits may not be due to the students themselves but rather a lack of income necessary to buy healthier food options. This related to a policy we suggested above, universal basic income; there are also other ways to supply healthy food options such as food distribution centers and special discounts on certain food items, similar to programs such as the WIC program ([WIC](https://www.fns.usda.gov/wic)). In addition, many of these unhealthy food options are provided by the school itself. Many school lunches contain unhealthy calories and quite a few students rely on free and reduced lunches to get one meal a day ([UC Davis Health](https://health.ucdavis.edu/good-food/blog/school-lunches-and-kids.html)). Therefore, schools should increase their funding for providing healthier food options for school lunches.
  
 
+## UBI 
+Upon doing research, we found there were a lot of food distribution centers and food initiatives in place already, that’s why we wanted to propose UBI as a new, unique solution to try. 
+
+__Potential Timeline:__
+- Conduct research to get more accurate cost estimate and population estimate.
+- Scrutinize budget to determine how to reallocate funds
+- Receive approval from Mayor (and all the other entities involved in the budget process).
+
+The organization should continue to track life expectancy for next couple decades through Baltimore City records.  If life expectancy increases, they know they have succeeded. Moreover, they should track poverty rate as well to see if the decrease in poverty rate helped increase life expectancy in Baltimore. This will tell them that UBI and free/reduced meals is effective.
+
+We will give $450 per person per household (4 people) that makes under $25,100 per year. We chose $450 because there was a trial of UBI in [Stockton, California](https://www.nytimes.com/2020/07/01/us/ubi-california.html)where each individual was given $500. The cost of living is higher in California than Baltimore, so we made the assumption that $450 is an adequate amount. According to the [Federal Poverty Guidelines](https://www.peoples-law.org/federal-poverty-guidelines), the federal poverty threshold for a four person household in 2018 was $25,100. [Poverty statistics from 2016](https://mda.maryland.gov/about_mda/Documents/SNAB/Maryland-Poverty-Profiles_2018_1-15-2018_T.pdf)found that 23.1% of people in Baltimore City were in poverty. This made out to 137,964 people living in poverty in 2016, according to the same article. Thus, we estimated that there are approximately 140,000 people living in poverty currently in Baltimore City. $450/ person makes the total cost estimate out to $63M (140,000 people * $450 = $63M). 
+Outside funding will be difficult because UBI needs to be government-funded and outside funding usually pertains to private funding. The government would need to increase their proposed budget and also rearrange their current budget.
+
 ## Future Suggestions
 
 The policies we have suggested can be pitched to public entities such as the Baltimore City Health Department, which is already working on various programs to help with food access, and also private entities such as NGOs like Eco City Farms or Food Link, Inc. ([Foodtank](https://foodtank.com/news/2014/11/five-awesome-food-organizations-in-maryland/)). There isn’t necessarily a shift or pivot that needs to happen in order for such changes like we have suggested to occur. Rather, there just needs to be stronger urgency in establishing programs like universal basic income and better assistance with healthy food access. 
