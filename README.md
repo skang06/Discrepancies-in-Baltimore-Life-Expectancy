@@ -10,7 +10,7 @@ Our primary stakeholder is Dr. Letitia Dzirasa, the current Baltimore City Healt
 
 ## Business Question
 
-___How can we combat life expectancy in the 45-64 age group in Baltimore City?___
+___How can we combat life expectancy in Baltimore City?___
 
 
 ## Open Data 
@@ -187,12 +187,15 @@ __Success and Failure examples of UBI__
 Different countries and states have experimented with similar small-scale versions of [UBI Case studies](https://www.vox.com/future-perfect/2020/2/19/21112570/universal-basic-income-ubi-map). In Canada, there was a randomized controlled trial in the province of Manitoaba where every household was able to participate and get basic income. After 5 years, there was actually an 8.5% reduction in the hospitalization rate and also a decline in doctor visits. Thus, the program actually helped residents to improve their physical and mental health. However, since the program was funded by the provincial and federal government, it got canceled when a more conservative power took in place. Thus, for a successful implementation of UBI, it would be important to make the program as stable as possible without being affected by changes in the government. Another concern that UBI might have is the possibility of the recipients’ unwillingness to find jobs. Spain, in 2017, implemented a similar program called “B-MINCOME,” a two-year program that offered $1,968 per month to almost 1000 randomly selected households. This successful program was able to boost life satisfaction and mental health, and surprisingly, it did not affect the participants’ willingness to find jobs. Although, the case in Spain was successful, analysis on job searching rate for participants before and after they receive UBI would be necessary to make the program to be effectively implemented in Baltimore.
 
 __Cost Estimate:__
+
 We will give $450 per person per household (4 people) that makes under $25,100 per year. We chose $450 because there was a trial of UBI in [Stockton, California](https://www.nytimes.com/2020/07/01/us/ubi-california.html)where each individual was given $500. The cost of living is higher in California than Baltimore, so we made the assumption that $450 is an adequate amount. According to the [Federal Poverty Guidelines](https://www.peoples-law.org/federal-poverty-guidelines), the federal poverty threshold for a four person household in 2018 was $25,100. [Poverty statistics from 2016](https://mda.maryland.gov/about_mda/Documents/SNAB/Maryland-Poverty-Profiles_2018_1-15-2018_T.pdf)found that 23.1% of people in Baltimore City were in poverty. This made out to 137,964 people living in poverty in 2016, according to the same article. Thus, we estimated that there are approximately 140,000 people living in poverty currently in Baltimore City. $450/ person makes the total cost estimate out to $63M (140,000 people * $450 = $63M). This is the cost estimate for one month of UBI for everyone in poverty. Hence, it gives an idea of the scale of this solution.
 
 __Funding:__
+
 Outside funding will be difficult because UBI needs to be government-funded and outside funding usually pertains to private funding. The government would need to increase their proposed budget by about $63 M to try it for one month for all neighborhoods. To get an idea of how this fits into their [current budget](https://mayor.baltimorecity.gov/news/press-releases/2020-05-11-mayor-young-unveils-revised-fiscal-year-budget-proposal#:~:text=The%20proposed%20total%20budget%20recommendation,%24832%20million%20of%20capital%20investments.), there is currently a $3.8 billion budget recommendation proposed by Baltimore City. This budget is broken down into $3 billion going into operating expenses and $832 million into capital investments. 
 
 __Potential Timeline/Next Steps:__
+
 - Conduct research to get more accurate cost estimate and population estimate.
 - Scrutinize budget to determine how to reallocate funds
 - Receive approval from Mayor (and all the other entities involved in the budget process).
