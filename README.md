@@ -76,6 +76,17 @@ We should focus on the neighborhoods in cluster 1 as it had the most below avera
 
 ## Similar Data Analysis Outside of Baltimore
 
+__Life expectancy and home prices in Bay Area, Baltimore:__
+
+![alt text](https://github.com/skang06/Discrepancies-in-Baltimore-Life-Expectancy/blob/main/bay%20area%20analysis%20life%20expectancy%20and%20housing%20price.png)
+
+It was difficult to get both data sets on the same graph due to the differences in the y-axis, but we can still observe a similar trend across both line graphs. The x-axis consists of the zip codes and they are ordered in ascending order so that the trends will be comparable across both line graphs. The median housing price graph has a slightly altered x-axis by excluding all NaN values in order to make the line graph continuous, but the change is not so large as to affect the shape of the graph significantly. As we can see in the graphs above, both graphs follow a similar shape, with peaks and intense variations at the same zip codes. We can surmise that the two variables, life expectancy and home prices, have a positive relationship in some way.
+
+We chose to compare a different location's variables to Baltimore's in order to see if there are other variables that we should consider in our final analysis. We can also use the Bay Area data to look for policies that worked in the Bay Area that could also work in Baltimore. Housing prices are an indicator of personal wealth of the owners and how good the economy is in the area. Housing prices in the Bay Area are always generally fairly high and we can assume that the higher the housing price, the more personal wealth or income the owner has. Since the housing price graph and life expectancy graph follow the same shape and trend, we can extrapolate and surmise that the higher the housing price, the higher the income of the owner, and the higher the life expectancy. This leads to our ultimate conclusion that higher income does indeed lead to higher life expectancy. This is a relationship we found in our Baltimore data as well and which can be enforced with what we have analyzed from the Bay Area data.
+
+This also means that our final solution proposal will likely emphasize the value of having universal basic income and other methods to help bring more disposable income to those who most need it, especially since these trends in life expectancy, housing price, and income/personal wealth have been consistent across both the Bay Area and Baltimore.
+
+
 __Unemployment Rate vs Poverty Rate for Cities in Bay Area, California:__
 
 ![alt text](https://raw.githubusercontent.com/skang06/bayarea_ue_poverty_life_expectancy/main/Screen%20Shot%202020-12-06%20at%204.02.49%20PM.png) 
