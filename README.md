@@ -1,4 +1,3 @@
-# Final-Project
 # Baltimore City Life Expectancy and Mortality Rates
 
 People are dying faster than warranted in poorer areas in Baltimore. This is not equitable and if there are ways to fix this, they should be fixed. Although we hypothesized that various food system initiatives might be better to improve health concerns, we found that median household income was one of the most important variables. Government officials should increasing the median household income through exploration of initiatives like Universal Basic Income or food distribution centers.
@@ -11,7 +10,7 @@ Our primary stakeholder is Dr. Letitia Dzirasa, the current Baltimore City Healt
 
 ## Business Question
 
-___How can we combat life expectancy and mortality rates in the 45-64 age group in Baltimore City?___
+___How can we combat life expectancy in the 45-64 age group in Baltimore City?___
 
 
 ## Open Data 
@@ -22,11 +21,7 @@ ___How can we combat life expectancy and mortality rates in the 45-64 age group 
 
 - [Percentage of Students Receiving Free or Reduced Meals](https://vital-signs-bniajfi.hub.arcgis.com/datasets/2748ad5e859841f5bba17d3f208b56df_0)
 
-- [Number of Miles of Bike Lanes](https://vital-signs-bniajfi.hub.arcgis.com/datasets/d88926354e4d4bab93c174a7cf2cdf2d_0)
-
 - [Median Household Income](https://vital-signs-bniajfi.hub.arcgis.com/datasets/8613366cfbc7447a9efd9123604c65c1_0)
-
-- [Mortality by Age (45-64 Years old)](https://vital-signs-bniajfi.hub.arcgis.com/datasets/d7f38ce4d36b4731b1b6cad189c8fddf_0)
 
 - [Life Expectancy](https://vital-signs-bniajfi.hub.arcgis.com/datasets/c7bc491a655741f59b3d80932b9857d6_0)
 
@@ -56,7 +51,6 @@ Equations:
 Life expectancy = -0.240(free/reduced meals) + 90.609
 
 Life expectancy = 0.0001(median household income) – 66.240
-
 
 
 __Clusters and Their Characteristics__
