@@ -110,13 +110,19 @@ Now that we have seen the differences and similarities of both cities in terms o
 
 __Linear Regression__
 
+![alt text](https://github.com/skang06/Final-Project/blob/main/Screen%20Shot%202020-12-16%20at%209.37.39%20PM.png)
+
 As shown in the linear regression summary output, the poverty rate is significant enough in explaining the output of life expectancy rate in Baltimore given that the p-value of poverty rate is lower than 0.05. Same applies to Chicago where the p-value of poverty rate was also lower than 0.05.
 
 __Scatter plot and trend line__
+
+![alt text](https://github.com/skang06/Final-Project/blob/main/Screen%20Shot%202020-12-17%20at%203.38.45%20AM.png)
  
 Both scatter plots and trend lines clearly show that both the poverty rate and life expectancy rate have an inverse relationship in both Baltimore and Chicago. As poverty rate increases, the life expectancy tend to decrease and vice versa. Given the slight difference in Baltimore and Chicago in terms of demographics, still the poverty rate and life expectancy rate had a strong inverse relationship. This reinforces that how important it’s to lower the poverty rate to increase the life expectancy rate. 
 
-__Per capita income vs. Life expectancy rate in Chicago  (add scatter plot)__
+__Per capita income vs. Life expectancy rate in Chicago__
+
+![alt text](https://github.com/skang06/Final-Project/blob/main/Screen%20Shot%202020-12-17%20at%203.39.05%20AM.png)
 
 In the previous part, we compared the median household income and life expectancy rate in Baltimore. Here, we used per capita income instead of median household income for Chicago. Compared to the Baltimore scatterplot, both cities have the same trend of positive relaitonship between two variables which means that as income increases, the life expectancy rate increased. The only main difference is that the individual dots are more spread out for Chicago whereas the individual dots are more closely clustered around the trend line for Baltimore. This might indicate that the R^2 value could be lower for Chicago, which means that per capita income could be better in explaining the life expectancy rate in Baltimore. Thus, it would be much more significant for Baltimore to have solutions that could increase the income level and lower the poverty rate to eventually increase the life expectancy rate in Baltimore. 
 
