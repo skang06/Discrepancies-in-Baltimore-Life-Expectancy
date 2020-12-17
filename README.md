@@ -25,6 +25,13 @@ ___How can we combat life expectancy in Baltimore City?___
 
 - [Life Expectancy](https://vital-signs-bniajfi.hub.arcgis.com/datasets/c7bc491a655741f59b3d80932b9857d6_0)
 
+_[Vital Signs Open Data](https://www.vitalsigns.mtc.ca.gov/)for Bay Area, California in 2012:_ 
+- [Life expectancy by zipcode](https://github.com/angelali1479/bay-area-life-expectancy-and-home-prices/blob/main/Vital_Signs__Life_Expectancy___by_ZIP_Code%20(1).csv)
+- [Home prices by zipcode](https://github.com/angelali1479/bay-area-life-expectancy-and-home-prices/blob/main/Vital_Signs__Home_Prices___by_zip_code.csv)
+- [Poverty data for cities](https://github.com/skang06/bayarea_ue_poverty_life_expectancy/blob/main/Bay_Area_Pov.csv):this dataset contains the original data source
+- [Poverty Data for counties](https://github.com/skang06/bayarea_ue_poverty_life_expectancy/blob/main/poverty_county.csv):this dataset contains the original data source
+- [Unemployment data for cities](https://github.com/skang06/bayarea_ue_poverty_life_expectancy/blob/main/Bay%20Area_UE.csv):this dataset contains the original data source
+- [Life expectancy data for counties](https://github.com/skang06/bayarea_ue_poverty_life_expectancy/blob/main/County_LE.csvth):this dataset contains the original data source
 
 ## Data Questions
 
