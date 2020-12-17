@@ -96,7 +96,7 @@ Before the poverty rate and life expectancy rate comparison in both cities, it w
 
 __Age group distribution in Baltimore and Chicago (add bar graphs)__
 
-Age group distribution in Chicago and Baltimore are almost the same. The highest age group population is 30 - 49 years old for both cities, and both cities have bell curved shape distributions. Also, the second highest age group populaiton were 21-29 age group and 50-61 age group for both cities. One of the main differences is that the total populaiton is much higher for Chicago where the total populaiton is 600K compared to Baltimore where the total populaiton is almost 2.7M. Due to the higher population in Chicago, although the trend for age group distributions are same for both cities, the actual population for each bar is much higher for Chicago. 
+Age group distribution in Chicago and Baltimore are almost the same. The highest age group population is 30 - 49 years old for both cities, and both cities have bell curved shape distributions. Also, the second highest age group populaiton were 21-29 age group and 50-61 age group for both cities. One of the main differences is that the total populaiton is much higher for Chicago where the total populaiton is almost 2.7M compared to Baltimore where the total populaiton is about 600K. Due to the higher population in Chicago, although the trend for age group distributions are same for both cities, the actual population for each bar is much higher for Chicago. 
 
 __Gender Ratio in Baltimore and Chicago__
 
