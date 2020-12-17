@@ -102,6 +102,8 @@ Age group distribution in Chicago and Baltimore are almost the same. The highest
 
 __Gender Ratio in Baltimore and Chicago__
 
+![alt text](https://github.com/skang06/Final-Project/blob/main/Screen%20Shot%202020-12-17%20at%203.35.39%20AM.png)
+
 Next is gender ratio comparison in both cities. In both cities, there are more male population than female population. However, Baltimore has a slightly higher male population of 53.1% whereas the male populaton in Chicago is 51.3%.
 
 Now that we have seen the differences and similarities of both cities in terms of demographcis, we can see if the same trend between the poverty rate and life expectancy holds in both cities.
