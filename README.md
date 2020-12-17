@@ -85,7 +85,7 @@ As expected and demonstrated in the graph, those cities with lowest rates of pov
 This provides more evidence for the need for UBI. For most of the cities with the worst poverty, there is an unemployment rate that is not that high comparably. This could indicate that getting more disposable income is more of an effective solution to combating poverty than more jobs.
 
 __Life Expectancy and Poverty Rate for Counties in Bay Area, California:__
-![alt text](add link!!!!) 
+![alt text](https://raw.githubusercontent.com/skang06/bayarea_ue_poverty_life_expectancy/main/Screen%20Shot%202020-12-06%20at%204.02.49%20PM.png) 
 
 As shown in the combined line and bar graph there is a roughly inverse relationship between poverty rate and life expectancy. When poverty rate is lower, the life expectancy is higher. This helps to confirm the article that indicated the life expectancy is lower in places with more poverty. As this is a wider data set encompassing all counties in the Bay Area, we can assume we can apply to results to Baltimore City.As shown in the combined line and bar graph there is a roughly inverse relationship between poverty rate and life expectancy. When poverty rate is lower, the life expectancy is higher. This helps to confirm the article that indicated the life expectancy is lower in places with more poverty. As this is a wider data set encompassing all counties in the Bay Area, we can assume we can apply to results to Baltimore City.
 
