@@ -61,11 +61,9 @@ Life expectancy = 0.0001(median household income) – 66.240
 
 __Clusters and Their Characteristics__
 
-![alt text](ADD LINK TO CLUSTER CHART)
+![alt text](https://github.com/skang06/Final-Project/blob/main/ccluster.png)
 
 __Life Expectancy:__ 
-
-![alt text](add link!!!!) 
 
 _Cluster 1_ (Allendale/Irvington/S.Hilton): Most below average age of life expectancy among the different clusters. Highest above average number of people in free and reduced meals. Also, the most below average median household income.
 
